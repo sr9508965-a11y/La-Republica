@@ -1,2 +1,2 @@
 # La-Republica
-Noticias que pasa el todo el Peru
+Noticias que pasa en todo el Peru
